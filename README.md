@@ -15,6 +15,7 @@ Each year the walk team will need to update the `config.csv` file with the walks
 This file should be finalized before the walk season starts.
 Any changes that are made to the `config.csv` file during the walk season can cause geographical boundaries to be redrawn and result in inconsistent email delivery.
 
+The table below provides a few example rows from the `config.csv` file.
 
 |event_id|city|state|cluster|lon|lat|rad|
 |-|-|-|-|-|-|-|
@@ -24,3 +25,11 @@ Any changes that are made to the `config.csv` file during the walk season can ca
 |1163|Charleston| SC|Blue|-79.9310512|32.7764749|200|
 |1138|Chicago| IL|White|-87.6297982|41.8781136|100|
 |1145|Cleveland| OH|Blue|-81.6943605|41.49932|150|
+
+* `event_id` is the Civi Event ID for the walk.
+* `city` is the city where the walk will occur.
+* `state` is the state where the walk will occur.
+* `lon` is the longitude of the walk location.
+* `lat` is the latitude of the walk location.
+* `rad` is the maximum radius, in miles, from the walk location that will be included in that walks geographical region.
+
