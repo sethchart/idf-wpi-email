@@ -31,5 +31,5 @@ The table below provides a few example rows from the `config.csv` file.
 * `state` is the state where the walk will occur.
 * `lon` is the longitude of the walk location.
 * `lat` is the latitude of the walk location.
-* `rad` is the maximum radius, in miles, from the walk location that will be included in that walks geographical region.
+* `rad` is the maximum radius, in miles, from the walk location that will be included in that walk's geographical region.
 
