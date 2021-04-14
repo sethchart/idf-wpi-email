@@ -18,4 +18,9 @@ Any changes that are made to the `config.csv` file during the walk season can ca
 
 |event_id|city|state|cluster|lon|lat|rad|
 |-|-|-|-|-|-|-|
-
+|1142|Atlanta| GA|Stripes|-84.3879824|33.7489954|200|
+|1143|Baltimore| MD|Blue|-76.6121893|39.2903848|100|
+|1137|Boston| MA|Stripes|-71.0588801|42.3600825|60|
+|1163|Charleston| SC|Blue|-79.9310512|32.7764749|200|
+|1138|Chicago| IL|White|-87.6297982|41.8781136|100|
+|1145|Cleveland| OH|Blue|-81.6943605|41.49932|150|
